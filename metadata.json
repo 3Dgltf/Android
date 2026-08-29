@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "Modern, stylish, and premium full-featured scientific calculator with unit converter, bill splitting, and history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
